@@ -1,6 +1,6 @@
 version: 0.0.1
 qs:
-- name: redis-quickstart
+ redis-quickstart:
   guide: https://github.com/gruffwizard/quarkus-quickstarts/tree/master/redis-quickstart
   desc: Redis Quickstart
   sides:
