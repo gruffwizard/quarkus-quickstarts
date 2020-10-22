@@ -1,10 +1,10 @@
 version: 0.0.1
 qs:
- redis-quickstart:
-  guide: https://github.com/gruffwizard/quarkus-quickstarts/tree/master/redis-quickstart
-  desc: Redis Quickstart
-  sides:
-  - image: redis:5.0.6
-    ports:
-      6379: 6379
+ - redis-quickstart:
+   guide: https://github.com/gruffwizard/quarkus-quickstarts/tree/master/redis-quickstart
+   desc: Redis Quickstart
+   sides:
+   - image: redis:5.0.6
+     ports:
+       6379: 6379
       
