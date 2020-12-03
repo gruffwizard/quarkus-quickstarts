@@ -7,4 +7,10 @@ qs:
    - image: redis:5.0.6
      ports:
        6379: 6379
+ spring-web-quickstart:
+   guide: https://github.com/gruffwizard/quarkus-quickstarts/tree/master/spring-web-quickstart
+   desc: Spring Web Quickstart  
+       
+       
+       
       
